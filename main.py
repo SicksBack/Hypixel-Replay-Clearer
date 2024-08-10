@@ -16,7 +16,7 @@ print("""
  ╚═════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝╚═════╝        ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
                                                                                                        
 CURRENT OPTIONS: PIT, HOUSING (Reccommended)
-COPYRIGHT: SICK https://discord.gg/fkHm7tUD53 (ALL RIGHTS RESERVED)
+COPYRIGHT: SICK discord.gg/hoppa (ALL RIGHTS RESERVED)
 """)
 
 bottype = input("[?] ENTER OPTION: ")
